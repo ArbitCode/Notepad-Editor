@@ -1,5 +1,5 @@
 /bin
-/src/jdk
+src/jdk
 .classpath
 .project
 .settings/
