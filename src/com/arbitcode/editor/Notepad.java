@@ -5,8 +5,6 @@ import java.awt.event.*;
 import java.io.*;
 import javax.swing.*;
 
-import jdk.internal.org.jline.utils.InputStreamReader;
-
 public class Notepad extends JFrame implements ActionListener, WindowListener {
 
 	JTextArea jta = new JTextArea();
